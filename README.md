@@ -21,7 +21,7 @@
 
 		(~shift+end (if downloaded files are in the same folder as main.go))
 		go run main.go 0 bvlc_googlenet.caffemodel bvlc_googlenet.prototxt classification_classes_ILSVRC2012.txt opencv cpu    
-
+															or gocv cpu
 
  You can also use this sample with the Intel OpenVINO Inference Engine, if you have it installed.
 
